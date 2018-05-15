@@ -1,5 +1,6 @@
 /*
-  Entity DSL grammar.
+Definicion de la grmatica del DSL  
+Entity DSL grammar.
 */
 
 EntityModel:
